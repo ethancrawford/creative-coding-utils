@@ -1,0 +1,17 @@
+{
+  "name": "@ethancrawford/creative-coding-utils",
+  "packageManager": "yarn@4.9.2",
+  "description": "A small collection of utility files shared between some of my creative coding projects.",
+  "homepage": "https://github.com/ethancrawford/creative-coding-utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethancrawford/creative-coding-utils.git"
+  },
+  "keywords": [
+    "p5js"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ethan Crawford",
+  "license": "MIT"
+}
